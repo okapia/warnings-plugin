@@ -7,7 +7,7 @@ import hudson.Extension;
 import hudson.plugins.analysis.util.model.Priority;
 
 /**
- * A parser for the SUN Studio C++ compiler warnings.
+ * A parser for the Oracle Solaris Studio C++ compiler warnings.
  *
  * @author Ulli Hafner
  */
